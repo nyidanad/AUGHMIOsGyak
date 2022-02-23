@@ -1,5 +1,5 @@
 név: Nyíri Dániel
 
-szak: Üzem-mérnök Informatikus
+szak: Üzemmérnök Informatikus
 
 tárgy: Operációs rendszerek (Gyakorlati feladatok)
