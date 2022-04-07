@@ -35,7 +35,7 @@ void handlerSignals(int sig)
     }
 
     else if(sig == SIGQUIT) {
-        printf("\SIGQUIT signal: %d\n", sig);
+        printf("\nSIGQUIT signal: %d\n", sig);
         signal(SIGQUIT, SIG_DFL);
     }
 }
